@@ -1,0 +1,223 @@
+body{
+   padding: 20;
+    background: #ffffff;
+}
+
+header>.m-tl>.m-tab>span{
+    background: #006699;
+    color: #fff;
+    padding: 4px 10px 0;
+    border-radius: 3px 3px 0 0;
+    font-size: 15px;
+    display: block;
+    text-align: center;
+}
+.m-tl{
+    padding-right:-10px;
+    zoom: 1;
+    border-bottom:5px solid #006699;
+}
+.m-tl>.ui-grid-2,.m-tl>.ui-grid-21{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+header>.m-tl>.m-tip>span{
+    background: #ff6600;
+    color: #fff;
+    padding: 2px 4px;
+    font-size: 15px;
+    border-radius: 3px;
+    text-align: center;
+}
+header>.m-tl>.m-fun>img{
+    width: 15;
+    height: 10;
+}
+header>.m-tl>.m-fun{
+    border: 1px solid #ccc;
+    color: #ccc;
+    padding: 2px 4px;
+    border-radius: 2px;
+    text-align: center;
+}
+.message>.ui-grid-row{
+    border-left: 1px solid #cecbce;
+    border-right: 1px solid #cecbce;
+}
+.timeMessage{
+    border-bottom: 1px solid #cecbce;
+}
+.baseMessage{
+    background: #fafbfb;
+}
+.bd-time span{
+    color: red;
+    padding: 2px 4px;
+    font-size: 15px;
+    text-align: center;
+}
+.bd-time,.basedMessage>.bd-money>.ui-grid-2,.basedMessage>.bd-money>.ui-grid-1{
+    margin: 0 0 0 0 ;
+    padding-bottom: 0 0 0 0;
+}
+.message>.ui-grid-2,.message>.ui-grid-1{
+    margin-bottom: 0px;
+    padding-bottom: 0 0 0 0;
+}
+.bd-money{
+    padding: 2px 4px;
+    font-size: 15px;
+    text-align: center;
+}
+.bd-money1{
+    color: black;
+}
+.bd-money2{
+    color: red;
+}
+.message{
+/*    padding: 2px 4px;*/
+    font-size: 15px;
+    text-align: center;
+}
+.message_time1,.message_time3,.message_count1{
+    margin-right: 0px;
+}
+.message_time4{
+    margin-right: 20px;
+    font-weight: 600;
+}
+.message_time2,.message_count2{
+    color: red;
+    margin-right: 20px;
+}
+.twoTools>.ui-grid-4,twoTools>.ui-grid-21{
+    margin: 0 0 0 0 ;
+    padding: 0 0 0 0 ;
+}
+.twoTools{
+    border-left: 1px solid #cecbce;
+    border-right: 1px solid #cecbce;
+    border-bottom: 1px solid #cecbce;
+    background: #fffbde;
+    font-size: 15px;
+    text-align: center;
+}
+.tools img{
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+}
+.title{
+    margin-top: 5px;
+    color: #607a90;
+    font-size: 15px;
+    text-align: center;
+}
+.title>.ui-grid-14,.title>.ui-grid-3{
+    background: #cedce8;
+    margin: 1 1 1 1px;
+    padding: 0 0 0 0;
+}
+.name{
+     border-left: 1px solid #cecbce;
+    border-right: 1px solid #cecbce;
+    border-bottom: 1px solid #cecbce;
+    background: #f2f2f2;
+    font-size: 15px;
+    text-align: center;
+}
+.null2,.NULL{
+    height: 23.69px;
+}
+.name img{
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+}
+.name>.ui-grid-4,.name>.ui-grid-16,.name>.ui-grid-3,.name>.ui-grid-6{
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+.spaceName{
+    font-weight: 800;
+}
+.timeTable{
+    color: #002cbd;
+    text-decoration: underline;
+}
+.detailMessages>.ui-grid-3,.detailMessage>.ui-grid-2,.detailMessage>.ui-grid-5{
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+.detailMessage>.ui-grid-7{
+    margin-bottom: 0;
+    margin-right: 20px;
+}
+.detailMessages>.ui-grid-3{
+    line-height: 44.8px;
+    height: 44.8px;
+    border-right: 1px solid #cecbce;
+}
+.detailMessage img{
+    width: 20px;
+    height: 20px;
+}
+.detailMessage{
+    font-size: 15px;
+    border-bottom: 1px solid #cecbce;;
+}
+.Time,.detailMessages span{
+    text-align: center;
+    
+}
+.bus span{
+    line-height: 44.8px;
+    color: #996600;
+}
+.bus img{
+    vertical-align: middle;
+}
+.direction{
+    color: #002cbd;
+}
+.others span{
+    line-height: 32.4px;
+    color: #002cbd;
+    text-decoration: underline;
+}
+.others>.ui-grid-6{
+    margin: 0 0 0 0 ;
+    padding: 0 0 0 0;
+}
+.spacename,.fan14{
+    line-height: 64px;
+}
+.train span{
+    line-height: 44.8px;
+    color: #0099ff;
+}
+.train img{
+    vertical-align: middle;
+}
+.direction1{
+    text-decoration: underline;
+}
+.direction2{
+    line-height: 20px;
+    border-radius: 5px;
+    text-align: center;
+    width: 60px;
+    color: white;
+    background: #002cbd;
+}
+
+
+
+
+
+
+
+
+
+

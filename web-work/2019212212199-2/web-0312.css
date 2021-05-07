@@ -1,0 +1,236 @@
+
+body{
+    background-image: url(e01-2.png);
+    background-size: 1063px 544px;
+    background-repeat:no-repeat;
+    margin: 0;
+}
+
+.g-example{
+    font-variant: Sans-serif;
+    font-family: 'medium-sans-serif-font';
+    font-style: normal;
+    
+}
+.g-main {
+    position:fixed;
+    line-height: 44px;
+    top :0px;
+    left: 65px;
+    word-spacing:21.5px;
+    letter-spacing: 0.5px;
+}
+.g-main span{
+    word-spacing: 0.05px;
+    font-size: 11px;
+    font-weight: 450;
+
+    
+}
+.leftTop{
+    line-height:15px;
+    position: fixed;
+    font-size: 11px;
+    top:71.5px;
+    left:33px;
+    color: darkgray;
+    
+}
+.left-1{
+    letter-spacing: 0.6px;
+}
+.left-2{
+    color: black;
+    left:30px;
+    font-size: 20px;
+    font-weight: 530;
+    line-height: 32px;
+}
+.left-3{
+    line-height: 25px;
+    letter-spacing: 0.4px;
+    word-spacing: 0.5px;
+}
+.left-4{
+    line-height: 40px;
+}
+.left-5{
+    line-height: 2px;
+    word-spacing: 1px;
+}
+.leftCenter{
+    line-height:15px;
+    position: fixed;
+    font-size: 11px;
+    top:242px;
+    left:33px;
+    color: darkgray;
+}
+.left-6{
+    letter-spacing: 0.6px;
+}
+.left-7{
+    color: black;
+    left:30px;
+    font-size: 20px;
+    font-weight: 550;
+    line-height: 32px;
+}
+.left-8{
+    line-height: 25px;
+    letter-spacing: 0.5px;
+    word-spacing: 0.5px;
+}
+.left-9{
+    line-height: 40px;
+}
+.left-10{
+     line-height: 2px;
+    word-spacing: 0.6px;
+}
+.leftButton{
+    line-height:15px;
+    position: fixed;
+    font-size: 11px;
+    top:413px;
+    left:33px;
+    color: darkgray;
+}
+.left-11{
+    letter-spacing: 0.6px;
+}
+.left-12{
+    color: black;
+    left:30px;
+    font-size: 20px;
+    font-weight: 550;
+    line-height: 32px;
+}
+.left-13{
+    line-height: 25px;
+    letter-spacing: 0.5px;
+    word-spacing: 0.5px;
+}
+.left-14{
+    line-height: 40px;
+}
+.left-15{
+     line-height: 2px;
+    word-spacing: 0.6px;
+}
+.image img{
+    width: 150px;
+    height: 125px;
+}
+#img1 {
+    position:fixed;
+    top:70px;
+    left:539px;
+}
+#img2 {
+    position:fixed;
+    top:240px;
+    left:539px;
+}
+#img3 {
+    position:fixed;
+    top:825px;
+    left:539px;
+}
+.righttop{
+    position: fixed;
+    top:100px;
+    left:770px;
+    font-weight: 600;
+    
+    font-size: 20px;
+}
+.right1 table{
+    position: fixed;
+    top:178px;
+    left:811px;
+    font-weight: 400;
+    line-height: 16px;
+}
+.right-1{
+    position: fixed;
+    top:245px;
+    left:815px;
+    font-size: 10px;
+    word-spacing: 1.5px;
+    line-height: 16px;
+}
+.right-2{
+    position: fixed;
+    top:265px;
+    left:815px;
+     color: darkgrey;
+    font-size: 10px;
+    word-spacing: 1px;
+    line-height: 16px;
+}
+.right2 table{
+    position: fixed;
+    top:307px;
+    left:813px;
+   
+    font-weight: 400;
+    line-height: 16px;
+}
+.right-3{
+    position: fixed;
+    top:375px;
+    left:818px;
+    font-size: 10px;
+    word-spacing: 1.6px;
+    line-height: 16px;
+}
+.right-4{
+    position: fixed;
+    top:395px;
+    left:818px;
+     color: darkgrey;
+    font-size: 10px;
+    word-spacing: 1.2px;
+    line-height: 16px;
+}
+.right3 table{
+    position: fixed;
+    top:436px;
+    left:814px;
+    font-weight: 400;
+    line-height: 16px;
+}
+.right-5{
+    position: fixed;
+    top:483.5px;
+    left:816px;
+    font-size: 10px;
+    
+    line-height: 16px;
+}
+.right-6{
+    position: fixed;
+    top:504px;
+    left:817px;
+     color: darkgrey;
+    font-size: 10px;
+    word-spacing: 1px;
+    line-height: 16px;
+}
+.top{
+      position:fixed;
+    left:40px;
+    color: darkgrey;
+    line-height: 44px;
+    word-spacing: 900px;
+}
+.rightnumber table{
+    position: fixed;
+    top:128px;
+    left:770px;
+    color: darkgrey;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 125px;
+}

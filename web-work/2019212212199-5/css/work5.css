@@ -1,0 +1,347 @@
+body{
+    background-image: url(ex05.png);
+    width: 1252px;
+    height: 1202px;
+    background-repeat: no-repeat;
+}
+.TOP img{
+    width: 495px;
+    position: absolute;
+    top:48px;
+    left:125px;
+}
+.TOP span{
+    position: absolute;
+    top:65px;
+    left:670px;
+    font-size: 23px;
+    letter-spacing: 7px;
+}
+.blue-box{
+    position: absolute;
+    top:113px;
+    left:666px;
+    border-bottom: 5px solid #177cb0;
+    
+}
+.Top p{
+    position: absolute;
+    top:150px;
+    left:666px;
+    line-height: 33px;
+    letter-spacing: 1px;
+    margin: 0;
+}
+.blue-text span{
+    border-radius:5px;
+    background:#177cb0;
+    width: 190px;
+    color:;
+    font-size: 20px;
+    position: absolute;
+    top:308;
+    left:664px;
+    line-height: 40px;
+    padding-left: 10px;
+}
+.next {
+    position: absolute;
+    left:835px;
+    top:323px;
+    width: 8px;
+    height: 8px;
+     border-right: 2px solid white;
+    border-top:2px solid white;
+    -webkit-transform: rotate(45deg);
+}
+.title span{
+    position: absolute;
+    top:437px;
+    left:125px; 
+    font-size: 30px;
+    font-weight: 600;
+    color: #177cb0;
+    letter-spacing: 2px;
+}
+.title p{
+    position: absolute;
+    top:427px;
+    left:240px; 
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 5px;
+}
+.blue-text1 span{
+    width: 150px;
+    line-height: 35px;
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    top:440px;
+    left:975px;
+    text-align: center;
+    background:#177cb0;
+    border-radius:5px;
+}
+.next1 {
+    position: absolute;
+    left:1090px;
+    top:453px;
+    width: 8px;
+    height: 8px;
+     border-right: 2px solid white;
+    border-top:2px solid white;
+    -webkit-transform: rotate(45deg);
+}
+.time{
+    position: absolute;
+    top:501px;
+    left:125px;
+    line-height: 89px;
+    font-size: 15px;
+    color:dimgrey;
+}
+/*#FFFAFA*/
+.center-box{
+    text-align: center;
+    line-height: 30px;
+    width: 115px;
+    height: 30px;
+     border-radius:50px;
+}
+.line1{
+    border-top:2px outset #f0f0f4;
+     position: absolute;
+     top:505px;
+     left:125px;
+    width: 1000px;
+}
+.line1-box{
+    text-align: center;
+    line-height: 30px;
+    width: 115px;
+    height: 30px;
+     border-radius:50px;
+    background: #4682B4;
+    position: absolute;
+    TOP:40PX;
+    left: 110px;
+    margin: 0;
+}
+.line1 p{
+    text-decoration: underline;
+    line-height: 75px;
+    position: absolute;
+    left:240px;
+    font-size: 18px;
+    letter-spacing: 6px;
+}
+.line2{
+    border-top:2px outset #f0f0f4;
+     position: absolute;
+     top:602px;
+     left:125px;
+    width: 1000px;
+}
+.line2-box{
+    text-align: center;
+    line-height: 30px;
+    width: 115px;
+    height: 30px;
+     border-radius:50px;
+    background: #3cb371;
+    position: absolute;
+    TOP:30PX;
+    left: 110px;
+    margin: 0;
+}
+.line2 p{
+    text-decoration: underline;
+    line-height: 55px;
+    position: absolute;
+    left:240px;
+    font-size: 18px;
+    letter-spacing: 6px;
+}
+/*6b8e23*/
+.line3{
+    border-top:2px outset #f0f0f4;
+     position: absolute;
+     top:690px;
+     left:125px;
+    width: 1000px;
+}
+.line3-box{
+    text-align: center;
+    line-height: 30px;
+    width: 115px;
+    height: 30px;
+     border-radius:50px;
+    background: #3cb371;
+    position: absolute;
+    TOP:30PX;
+    left: 110px;
+    margin: 0;
+}
+.line3 p{
+    text-decoration: underline;
+    line-height: 55px;
+    position: absolute;
+    left:240px;
+    font-size: 18px;
+    letter-spacing: 6px;
+}
+.fram{
+    width: 1252px;
+    height: 420px;
+    background-color:darkgrey;
+    position: absolute;
+    top:788;
+    opacity: 0.1;        
+}
+.titleone{
+    border-left: 8px solid #177cb0;
+    height: 32;
+    position: absolute;
+    top:805px;
+    left:50px;
+}
+.titleone p{
+    font-size: 25px;
+    margin: 0;
+    color: #177cb0;
+    position: absolute;
+    top:-4px;
+    left:15px;
+    letter-spacing: 7px;
+}
+.titletwo{
+    border-left: 8px solid #177cb0;
+    height: 32;
+    position: absolute;
+    top:805px;
+    left:660px;
+}
+.titletwo p{
+    font-size: 25px;
+    margin: 0;
+    color: #177cb0;
+    position: absolute;
+    top:-4px;
+    left:14px;
+}
+.left-box{
+    border: 2px solid darkgrey;
+    width: 537px;
+    height: 315px;
+    position: absolute;
+    top:855px;
+    left:50px;
+    text-align: center;
+}
+.name-l{
+/*    text-align: center;*/
+    font-size: 25px;
+    width: 537px;
+    position: absolute;
+    top:10px;
+    letter-spacing: 6px;
+}
+.PhoneNumber{
+   font-size: 45;
+    font-weight: 700;
+    width: 537px;
+    color:  #177cb0;
+    position: absolute;
+    top:31px;
+}
+.introduce{
+    font-size: 20px;
+    width: 537px;
+    position: absolute;
+    top:130;
+    letter-spacing: 4px;
+    color:dimgrey;
+}
+.worktime{
+    border-top:2px solid darkgrey;
+    width: 460px;
+    position: absolute;
+    top:227px;
+    left:25px;
+}
+.worktime span{
+    font-size: 17px;
+    font-weight: 700;
+    color: #177cb0;
+    position: absolute;
+    top:20px;
+    left: 105px;
+    letter-spacing: 3px;
+}
+.right-box{
+    border: 2px solid darkgrey;
+    width: 537px;
+    height: 315px;
+    position: absolute;
+    top:855px;
+    left:660px;
+    text-align: center;
+}
+.Web-introduce{
+    width: 537px;
+    position: absolute;
+    top:148;
+    font-size: 17px;
+    line-height: 28px;
+    color:dimgrey;
+    font-weight: 600;
+}
+.mail-box{
+    width: 427px;
+    background: #177cb0;
+    height: 70px;
+    position: absolute;
+    top:73px;
+    left:53px;
+    border: 2px outset #177cb0;
+    border-radius: 5px;
+}
+.mail-box span{
+    font-size: 22;
+    color: white;
+    line-height: 70px;
+    letter-spacing: 4px;;
+    position: absolute;
+    left:100px;
+}
+.nextthree{
+    width: 10px;
+    height: 10px;
+     border-right: 3px solid white;
+    border-top:3px solid white;
+    -webkit-transform: rotate(45deg);
+    position: absolute;
+    left:395px;
+    top:28px;
+}
+.e-mail{
+    border: 2px solid white;
+    width: 23px;
+    height: 15px;
+    position: absolute;
+    top:25px;
+    left: 62px;
+}
+.e-mail:after{
+    content:'.';
+    display:block;
+    width: 15px;
+    height: 15px;
+     border-right: 3px solid white;
+    border-bottom:3px solid white;
+    -webkit-transform: rotate(45deg);
+    position: absolute;
+    top:-10px;
+    left:2px;
+}
